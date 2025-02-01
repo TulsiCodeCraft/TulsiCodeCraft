@@ -1,3 +1,5 @@
+![Your Alt Text].(coding.gif).
+
 ## Hi, I'm Tulsi Pujari!
 
 - 💻 Software Engineer | Passionate about building scalable and efficient applications.  
