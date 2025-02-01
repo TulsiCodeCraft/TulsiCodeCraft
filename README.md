@@ -1,4 +1,4 @@
-![My GIF](./assets/coding.gif)  
+![My GIF](./assests/coding.gif)  
 
 ## Hi, I'm Tulsi Pujari!
 
