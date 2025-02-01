@@ -1,4 +1,4 @@
-![Your Alt Text].(coding.gif).
+![My GIF](./assets/coding.gif)  
 
 ## Hi, I'm Tulsi Pujari!
 
